@@ -1,2 +1,2 @@
 # CaiDou
-ok=(aHR0cDovL2xvY2FsaG9zdDo1MDc1)
+ok=(aHR0cDovLzE5Mi4xNjguMC40Nzo1MDc1)
